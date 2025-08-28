@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 17
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: io.github.bonigarcia.wdm.WdmAgent
+Automatic-Module-Name: io.github.bonigarcia.webdrivermanager
+
